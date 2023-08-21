@@ -6,7 +6,7 @@
 
 
 
-## 目前技能
+## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=vue,js,html,css,nuxtjs)](https://skillicons.dev)
 
