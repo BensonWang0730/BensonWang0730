@@ -8,7 +8,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=vue,js,html,css,nuxtjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,js,html,css,tailwind,nuxtjs)](https://skillicons.dev)
 
 ## 努力學習中
 [![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,mysql)](https://skillicons.dev)
