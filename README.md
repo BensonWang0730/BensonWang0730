@@ -1,9 +1,5 @@
 ## Hello, I'm Benson! 👋
 
-大學時首次接觸到 C#, 便對 coding 充滿憧憬。
-
-全心投入7個月的全職學習，與團隊一同合作，使用 Nuxt3 成功的完成一個刺青媒合平台。
-
 ![](https://leetcard.jacoblin.cool/bensonwei?border=0&radius=20)
 
 ## My Skills
